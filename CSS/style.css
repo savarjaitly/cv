@@ -1,0 +1,132 @@
+body {
+    margin: 0; 
+}
+.middle {
+    background-color: rgb(227, 114, 114);
+    padding: 7%;
+}
+.top   {
+    padding: 3%;
+   background-color: antiquewhite;
+}
+
+.bottom {
+    padding: 3%;
+    background-color: rgb(56, 50, 50);
+}
+hr {
+    width: 100%;
+    
+    
+}
+h1, h2{
+    text-align: center;
+    font-family: 'Alfa Slab One', cursive;
+    color: rgb(55, 51, 51);
+}
+h3 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(55, 51, 51);
+}
+
+.headshot {
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-top: auto;
+width: 400px;
+height:400px;
+object-fit:cover;
+border-radius:50%;
+padding: 5%;
+
+}
+.cp {
+    text-align: center;
+    color: antiquewhite;
+}
+.ugaPic{
+    
+   width: 375px;
+   height: auto;
+    position: absolute;
+    bottom: 150px;
+    left: 1050px;
+    padding: 0%;
+    
+}
+.terryPic{
+   
+    width: 375px;
+    height: auto;
+    position: absolute;
+    bottom: 150px;
+    right: 1050px;
+    padding: 0%;
+}
+
+#IndexName {
+    position: relative;
+    top:  50px;
+    font-size: 75px;
+}
+#belowName {
+    position: relative;
+    top: 50px;
+}
+#description {
+    text-align: center;
+    width: 700px;
+    position: relative;
+    left: 25%;
+}
+.contactLink {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.tcsLink {
+    text-decoration: none;
+    color: rgb(47, 31, 227);
+}
+#mySkills {
+    font-size: 40px;
+}
+
+.left{
+   float: left;
+   margin-left: 40%;
+  padding-bottom: 3%;
+}
+
+.right {
+    float: right;
+   margin-right: 40%;
+   padding-bottom: 3%;
+   
+}
+a:hover{
+    color: rgb(251, 76, 60);
+}
+
+
+.middleContact{
+    background-color: rgb(227, 114, 114);
+    padding-bottom: 40%;
+}
+.contactInfo{
+    text-align: center;
+}
+.contactLeft{
+    float: left;
+}
+.contactRight{
+    float: right;
+    margin-right: 1200px;
+}
